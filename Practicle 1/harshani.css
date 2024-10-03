@@ -1,0 +1,18 @@
+.div1 {
+    width: 420px;
+    height: 450px;
+    background-color: pink;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 350px;
+    border-radius: 10px;
+}
+.button {
+    color: red;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+}
+.button:hover{
+    box-shadow: red;
+}
